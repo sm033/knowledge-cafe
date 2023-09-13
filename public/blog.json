@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/31V9R0r/2.png",
+      "title": "The Mystery of Quantum Mechanics",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/DRhMm1Q/girl1.jpg",
+      "posted_date": "2023-09-13",
+      "reading_time": 12,
+      "hashtags": ["science", "physics", "quantum"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/3vnV8M3/4.jpg",
+      "title": "Exploring the Galaxy Beyond",
+      "author": "Bob Smith",
+      "author_img": "https://i.ibb.co/cgMkHdn/girl2.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 8,
+      "hashtags": ["space", "astronomy", "exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/Vwr7Z5r/3.png",
+      "title": "The Art of Cooking with Herbs",
+      "author": "Ella Davis",
+      "author_img": "hhttps://i.ibb.co/d0YfZQw/boy2.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 15,
+      "hashtags": ["cooking", "recipes", "herbs"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/PgnYZ76/1.jpg",
+      "title": "Digital Marketing Strategies",
+      "author": "David Clark",
+      "author_img": "https://i.ibb.co/7J8g9Nm/boy1.png",
+      "posted_date": "2023-09-10",
+      "reading_time": 10,
+      "hashtags": ["marketing", "digital", "strategy"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/qpMDFJK/Rectangle-1.png",
+      "title": "The Art of Mindfulness",
+      "author": "Grace Wilson",
+      "author_img": "https://i.ibb.co/hMZ2bP0/profile.png",
+      "posted_date": "2023-09-09",
+      "reading_time": 7,
+      "hashtags": ["mindfulness", "wellness", "mentalhealth"]
+    }
+  ]
+  
